@@ -58,8 +58,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-  
-      - title: 지케스
+        title: 지케스
         link: http://www.gkes.co.kr/
         link_text: gkes.co.kr
         sub_title: 모니터링 솔루션 개발
