@@ -96,16 +96,16 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          - struts 프레임워크, 자바 1.4!!!
+          - struts 프레임워크, 자바 1.4!!! <br>
           사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
         
-        - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
-          sub_title: (주)쉐어트리츠
-          link: github.com/sproogen
-          caption: 2023.06 - 2023.07
-          description: | # this will include new lines to allow paragraphs
-          - struts 프레임워크, 자바 1.4!!!
-          사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
+        # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
+        #   sub_title: (주)쉐어트리츠
+        #   link: github.com/sproogen
+        #   caption: 2023.06 - 2023.07
+        #   description: | # this will include new lines to allow paragraphs
+        #   - struts 프레임워크, 자바 1.4!!!
+        #   사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
 
   - title: Education # Title for the section
