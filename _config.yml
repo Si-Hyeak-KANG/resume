@@ -69,11 +69,13 @@ content:
             - Struts 프레임워크, JSP 기반 모니터링 솔루션 다국어 기능 개발
             - 통신사별 공공와이파이 데이터 연동 및 관리
             
-      - title: 도서 공동 집필
-        link: http://www.gkes.co.kr/
-        link_text: gkes.co.kr
-        sub_title: 도서명:개발자가 되기 위해 꼭 알아야 하는 IT 용어
+      - title: 개발 도서 출판
+        link: https://www.yes24.com/Product/Goods/109711067
+        link_text: 도서 바로가기
+        sub_title: 21인 공동 집필
         caption: 2021.12 ~ 2022.05
+        quote: >
+          도서명: 개발자가 되기 위해 꼭 알아야 하는 IT 용어
         description: | # this will include new lines to allow paragraphs
             - HTTP, HASH, MVC, CDN, SPA 용어 작성
 
@@ -92,9 +94,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        layout: default
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - struts 프레임워크, 자바 1.4!!!
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
