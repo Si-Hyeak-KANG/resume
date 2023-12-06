@@ -61,7 +61,7 @@ content:
         title: GKeS
         link: http://www.gkes.co.kr/
         link_text: gkes.co.kr
-        sub_title: 클라우드 모니터링 솔루션 개발
+        sub_title: Java 개발자
         caption: 2023.07 ~ 2023.11
         quote: >
           회사 재정 악화로 인한 퇴사
@@ -72,28 +72,27 @@ content:
       - title: 도서 공동 집필
         link: http://www.gkes.co.kr/
         link_text: gkes.co.kr
-        sub_title: 도서명 : 개발자가 되기 위해 꼭 알아야 하는 IT 용어
-        caption: 2021.12 ~ 2022.06
+        sub_title: 도서명:개발자가 되기 위해 꼭 알아야 하는 IT 용어
+        caption: 2021.12 ~ 2022.05
         description: | # this will include new lines to allow paragraphs
-            - 초보 개발자 대상 작성
-            - HTTP, HASH, MVC, CDN, SPA 용어를 담당하여 작성
+            - HTTP, HASH, MVC, CDN, SPA 용어 작성
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: 다국어 적용
         link: github.com/sproogen
+        caption: 2023.08 ~ 2023.09
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      - layout: left
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
