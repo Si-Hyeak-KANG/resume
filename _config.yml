@@ -82,7 +82,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: 다국어 적용
         link: github.com/sproogen
         caption: 2023.08 ~ 2023.09
