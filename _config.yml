@@ -48,7 +48,7 @@ instagram_username: sihyukski
 # about_title: About Me
 about_profile_image: images/profile4.jpg
 about_content: | # this will include new lines to allow paragraphs
-  저의 강점은 '높은 코드 이해력'입니다. 취업을 준비하면서 3개의 협업 프로젝트와 알고리즘 스터디 모임을 이끌면서 역량이 발전하였습니다.
+ 
 
 content:
 
@@ -186,7 +186,7 @@ content:
     content: |
       - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
       - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 프로젝트 소개</a> | 협업 프로젝트 개발 과정 발표 영상
-      - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | 발표 영상
+      - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | (150명 동료 개발자 대상) 발표 영상
 
 # Footer
 footer_show_references: true
