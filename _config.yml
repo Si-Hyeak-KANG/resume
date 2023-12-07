@@ -82,7 +82,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 다국어 적용
         sub_title: (주)지케스
         link: github.com/sproogen
@@ -99,13 +99,13 @@ content:
           - struts 프레임워크, 자바 1.4!!! <br>
           사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
         
-        # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
-        #   sub_title: (주)쉐어트리츠
-        #   link: github.com/sproogen
-        #   caption: 2023.06 - 2023.07
-        #   description: | # this will include new lines to allow paragraphs
-        #   - struts 프레임워크, 자바 1.4!!!
-        #   사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
+      - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
+        sub_title: (주)쉐어트리츠
+        link: github.com/sproogen
+        caption: 2023.06 - 2023.07
+        description: | # this will include new lines to allow paragraphs
+        - struts 프레임워크, 자바 1.4!!!
+        사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
 
   - title: Education # Title for the section
