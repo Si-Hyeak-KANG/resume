@@ -170,7 +170,7 @@ content:
 
   - title: Education & Activities
     layout: text
-    content:
+    content: |
       - <b>[교육] 코드스테이츠</b>, <small><i>백엔드 코스 39기</i></small> | 2022.04 - 2022.11
       - <b>[대외] 제주더큰내일센터</b>, <small><i>탐나는인재 5기</i></small> | 2021.10 - 2022.11
       - <b>[학교] 제주대학교</b>, <small><i>메카트로닉스공학과</i></small> | 2014.03 - 2021.08
@@ -178,12 +178,12 @@ content:
 
   - title: Certificates
     layout: text
-    content:
+    content: |
       - <b>SQLD 자격증</b>, <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
 
   - title: etc.
     layout: text
-    content: 
+    content: |
       - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
       - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 개발 프로젝트</a> | 협업 프로젝트 발표 영상
       - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | 발표 영상
