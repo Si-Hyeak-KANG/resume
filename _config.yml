@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 강시혁 | 개발자
+name: 강시혁
 title: 서버 백엔드 엔지니어
 email: zlcls456@gmail.com
 website: https://kang-james.tistory.com/
@@ -48,13 +48,11 @@ instagram_username: sihyukski
 # about_title: About Me
 about_profile_image: images/profile4.jpg
 about_content: | # this will include new lines to allow paragraphs
- 개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
-항상 작은 부분이라도 이점이 있다면 성능을 개선하기 위해 고민합니다.
-
-저는 높은 코드 이해력과 체계적이고, 섬세한 정리 능력을 강점으로 갖고 있습니다.
-따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
-
-현재는 더욱 다양한 문제를 폭넓게 해결할 수 있는 개발자가 되기 위해 끊임없이 학습하고 있습니다.
+  개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
+  항상 작은 부분이라도 이점이 있다면 성능을 개선하기 위해 고민합니다.
+  저는 높은 코드 이해력과 체계적이고, 섬세한 정리 능력을 강점으로 갖고 있습니다.
+  따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
+  현재는 더욱 다양한 문제를 폭넓게 해결할 수 있는 개발자가 되기 위해 끊임없이 학습하고 있습니다.
 
 content:
 
