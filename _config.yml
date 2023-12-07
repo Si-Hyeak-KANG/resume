@@ -29,15 +29,6 @@ instagram_username: sihyukski
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-## additional_links:
-## - title: itsgoingto.be
-##   icon: fas fa-globe
-##   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 #  gtm: "GTM-0000000"
@@ -94,18 +85,9 @@ content:
         title: 다국어 변환 기능
         sub_title: (주)지케스
         caption: 2023.08 - 2023.10
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          - HTTP 헤더의 Accept-Language 값에 우선순위를 적용하여 사용자의 언어 추출
-          - 리소스 번들(ResourceBundle)을 활용
-          - 27개 카테고리 중 약 19개에 해당하는 영역 수행
+          - HTTP 헤더의 Accept-Language 값에서 우선순위를 적용하여, 사용자 맞춤 다국어 제공
+          - 27개 카테고리 중 약 '50% 에 해당하는 영역의 UI 및 서버'에 다국어 변환 적용
 
           <small><mark>Java1.4</mark></small> <small><mark>Struts1 Framework</mark></small> <small><mark>JSP</mark></small> <small><mark>PostgreSQL</mark></small> <small><mark>Linux</mark></small>
 
