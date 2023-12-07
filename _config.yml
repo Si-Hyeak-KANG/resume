@@ -170,22 +170,19 @@ content:
           - JavaScript
           - Flutter
 
-  - title: Education & Active
-    layout: list
-    content:
-      - layout: top-middle
-        title: 제주대학교
-        caption: 2014.03 - 2021.08
-        sub_title: 메카트로닉스공학과
-
-      - layout: top-middle
-        title: 오현고등학교
-        caption: 2011.02 - 2014.02
+  - title: Education & Activities
+    layout: text
+    content: | 
+      - 2023.05 - 2023.06 | [대외] 취준컴퍼니
+      - 2022.04 - 2022.11 | [교육] 코드스테이츠, <small>백엔드 코스 39기</small>
+      - 2021.10 - 2022.11 | [대외] 제주더큰내일센터, 탐나는인재 5기
+      - 2014.03 - 2021.08 | [학교] 제주대학교, 메카트로닉스공학과
+      - 2011.02 - 2014.02 | [학교] 오현고등학교
 
   - title: Certificate
     layout: text
     content: | 
-      - [2023.10.06] SQLD | 한국데이터산업진흥원
+      - 2023.10.06 | SQLD (한국데이터산업진흥원)
 
 # Footer
 footer_show_references: true
