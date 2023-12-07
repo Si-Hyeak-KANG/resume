@@ -82,7 +82,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-start
+      - layout: left
         title: 다국어 적용
         sub_title: (주)지케스
         link: github.com/sproogen
@@ -100,50 +100,51 @@ content:
 
           <mark>Java1.4</mark> <mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
-      - layout: top-start
-        title: 대화형 봇을 통한 선물하기 서비스 개발
-        link: https://www.yes24.com/Product/Goods/109711067
+      - layout: left
+        title: 챗봇 기반 선물하기 서비스
+        link: https://github.com/sharetreats-team/chatbot-treats-webhook
         link_text: Github
         sub_title: (주)쉐어트리츠
-        caption: 2021.12 - 2022.05
+        caption: 2023.06 - 2023.07
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인) <br>
           2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영 <br>
-          3) 기여 및 성과 <br>
             - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
             - 프로젝트 기획 및 설계 과정에 전체 기여
             - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
           <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
 
-      # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
-      #   sub_title: (주)쉐어트리츠
-      #   link: https://github.com/sharetreats-team/chatbot-treats-webhook
-      #   link_text: Github
-      #   caption: 2023.06 - 2023.07
-      #   description: | # this will include new lines to allow paragraphs
-      #     1) 참여인원 : 4인 (BE 4인)
-      #     2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영
-      #     3) 기여 및 성과
-      #       - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-      #       - 프로젝트 기획 및 설계 과정에 전체 기여
-      #       - 이슈 및 형상관리를 책임하여 팀 협업에 기여
+      - layout: left
+        title: 채식주의자 식단 맞춤 쇼핑 서비스 개발
+        link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
+        link_text: Github
+        sub_title: 코드스테이츠 교육
+        caption: 2022.09 - 2023.04
+        description: | # this will include new lines to allow paragraphs
+          1) 참여인원 : 7인 (BE 4인, FE 3인) <br>
+          2) 역할 : PM, 회원 및 상품 도메인 구현 <br>
+            - ChatGPT 기반 AI 대화형 큐레이션 기능 개발 (고객 맞춤 제품 검색 소요 시간 50% 단축)
+            - 채식주의자 유형에 따라 데이터 구조를 계층으로 설계, 고객 맞춤 조회 쿼리 구현
+            - 코드 가독성과 객체 지향 5원칙에 준수하는지 고민하며, 패키지 전체 리팩토링 진행
 
-      #     <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
+          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
 
-      # - title: 채식주의자 개인 식단 맞춤 쇼핑 서비스 개발, 채식이들
-      #   sub_title: 코드스테이츠 교육
-      #   link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
-      #   link_text: Github
-      #   caption: 2022.09 - 2023.04
-      #   description: | # this will include new lines to allow paragraphs
-      #     1) 참여인원 : 7인 (BE 4인, FE 3인)
-      #     2) 역할 : PM 및 회원 및 상품 도메인 담당
-      #     3) 기여 및 성과
-      #       - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-      #       - 프로젝트 기획 및 설계 과정에 전체 기여
-      #       - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
+      - layout: left
+        title: 문화 공유 플랫폼 개발
+        link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
+        link_text: Github
+        sub_title: 코드스테이츠 교육
+        caption: 2022.09 - 2023.04
+        description: | # this will include new lines to allow paragraphs
+          1) 참여인원 : 3인 (BE 1인, FE 1인, IOS 1인) <br>
+          2) 역할 : 백엔드 전체 담당<br>
+            - 배포에 대해서 주도적으로 학습하고, AWS Elastic Beanstalk 서비스를 통해 무중단 배포 적용
+            - 팀 업무 효율 증가를 위해 Notion과 GitHub에 팀 페이지를 구축. 팀 협업에 기여
+            - 팀원들에게 HTTP 네트워크, REST API에 대한 지식 전달
+
+          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
