@@ -182,7 +182,7 @@ content:
   - title: Certificate
     layout: text
     content: | 
-      - <b>SQLD</b> <samll><i>한국데이터산업진흥원</i></small> | 2023.10.06
+      - <b>SQLD</b> <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
 
 # Footer
 footer_show_references: true
