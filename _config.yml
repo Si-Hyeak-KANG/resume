@@ -111,7 +111,7 @@ content:
             - 프로젝트 기획 및 설계 과정에 전체 기여
             - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
+          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>Redis</mark></small> <small><mark>AWS</mark></small> <small><mark>Github Action</mark></small>
 
       - layout: left
         title: 채식주의자 식단 맞춤 쇼핑 서비스 개발
@@ -126,7 +126,7 @@ content:
             - 채식주의자 유형에 따라 데이터 구조를 계층으로 설계, 고객 맞춤 조회 쿼리 구현
             - 코드 가독성과 객체 지향 5원칙에 준수하는지 고민하며, 패키지 전체 리팩토링 진행
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>AWS(EC2, S3, RDS)</mark> <mark>Jira</mark>
+          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS(EC2, S3, RDS)</mark></small> <small><mark>Jira</mark></small>
 
 
       - layout: left
@@ -142,7 +142,7 @@ content:
             - 팀 업무 효율 증가를 위해 Notion과 GitHub에 팀 페이지를 구축. 팀 협업에 기여
             - 팀원들에게 HTTP 네트워크, REST API에 대한 지식 전달
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>AWS Elastic Beanstalk</mark>
+          <small><mark>Java11</mark></small> </small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS Elastic Beanstalk</mark></small>
 
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
@@ -185,7 +185,7 @@ content:
     layout: text
     content: |
       - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
-      - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 개발 프로젝트</a> | 협업 프로젝트 발표 영상
+      - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 프로젝트 소개</a> | 협업 프로젝트 개발 과정 발표 영상
       - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | 발표 영상
 
 # Footer
