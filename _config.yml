@@ -82,7 +82,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-start
         title: 다국어 적용
         sub_title: (주)지케스
         link: github.com/sproogen
@@ -100,14 +100,12 @@ content:
 
           <mark>Java1.4</mark> <mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
-      - layout: top-middle
+      - layout: top-start
         title: 대화형 봇을 통한 선물하기 서비스 개발
         link: https://www.yes24.com/Product/Goods/109711067
         link_text: Github
         sub_title: (주)쉐어트리츠
         caption: 2021.12 - 2022.05
-        quote: >
-          도서명: 개발자가 되기 위해 꼭 알아야 하는 IT 용어
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인)
           2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영
@@ -117,7 +115,7 @@ content:
             - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
           <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
-          
+
       # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
       #   sub_title: (주)쉐어트리츠
       #   link: https://github.com/sharetreats-team/chatbot-treats-webhook
