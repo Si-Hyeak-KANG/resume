@@ -207,6 +207,7 @@ content:
     layout: text
     content: |
       - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
+      - <a href="https://kang-james.tistory.com/entry/JPA-N1-%EB%AC%B8%EC%A0%9C%EC%99%80-Query-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-Fetch-Join" target='_blank'>JPA N+1 문제와 Query 성능 개선</a> | 기술 블로그 기록
       - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 프로젝트 소개</a> | 협업 프로젝트 개발 과정 발표 영상
       - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | (150명 동료 개발자 대상) 발표 영상
 
