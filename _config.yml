@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - struts 프레임워크, 자바 1.4!!!
 
-          <mark>Java1.4</mark> <mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
+          <mark>Java1.4</mark> <mark>Struts1 Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
       - layout: left
         title: 챗봇 기반 선물하기 서비스
@@ -128,7 +128,7 @@ content:
             - 채식주의자 유형에 따라 데이터 구조를 계층으로 설계, 고객 맞춤 조회 쿼리 구현
             - 코드 가독성과 객체 지향 5원칙에 준수하는지 고민하며, 패키지 전체 리팩토링 진행
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
+          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>AWS(EC2, S3, RDS)</mark> <mark>Jira</mark>
 
 
       - layout: left
@@ -144,9 +144,33 @@ content:
             - 팀 업무 효율 증가를 위해 Notion과 GitHub에 팀 페이지를 구축. 팀 협업에 기여
             - 팀원들에게 HTTP 네트워크, REST API에 대한 지식 전달
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
+          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>AWS Elastic Beanstalk</mark>
 
-  - title: Education # Title for the section
+  - title: Skill # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          - <b>Java</b>
+          - <b>Spring Boot, Spring MVC, Spring Data JPA </b>, Spring Security, Redis
+          - JPA, Querydsl
+          - Gradle, Maven
+          - IntelliJ, Eclipse
+
+      - title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          - MySQL, PostgreSQL
+          - AWS EC2, RDS, S3, Elastic Cache
+          - Github Action
+
+      - title: Fontend
+        description: | # this will include new lines to allow paragraphs
+          - JSP, Thymeleaf
+          - JavaScript
+          - Flutter
+
+  - title: Education & Active # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -160,17 +184,10 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Certificate
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      [2023.10.06] SQLD | 한국데이터산업진흥원
 
 # Footer
 footer_show_references: true
