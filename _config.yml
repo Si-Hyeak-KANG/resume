@@ -107,9 +107,9 @@ content:
         sub_title: (주)쉐어트리츠
         caption: 2021.12 - 2022.05
         description: | # this will include new lines to allow paragraphs
-          1) 참여인원 : 4인 (BE 4인)
-          2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영
-          3) 기여 및 성과
+          1) 참여인원 : 4인 (BE 4인) <br>
+          2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영 <br>
+          3) 기여 및 성과 <br>
             - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
             - 프로젝트 기획 및 설계 과정에 전체 기여
             - 이슈 및 형상관리를 책임하여 팀 협업에 기여
