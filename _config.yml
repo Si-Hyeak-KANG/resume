@@ -98,9 +98,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           - struts 프레임워크, 자바 1.4!!!
 
-          <mark>Java1.4</mark><mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
+          <mark>Java1.4</mark> <mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
-      - title: 개발 도서 출판
+      - title: 대화형 봇을 통한 선물하기 서비스 개발
         link: https://www.yes24.com/Product/Goods/109711067
         link_text: 도서 바로가기
         sub_title: 21인 공동 집필
