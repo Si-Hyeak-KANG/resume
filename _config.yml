@@ -82,7 +82,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: 다국어 적용
         sub_title: (주)지케스
         link: github.com/sproogen
@@ -102,8 +102,8 @@ content:
 
       - title: 대화형 봇을 통한 선물하기 서비스 개발
         link: https://www.yes24.com/Product/Goods/109711067
-        link_text: 도서 바로가기
-        sub_title: 21인 공동 집필
+        link_text: Github
+        sub_title: (주)쉐어트리츠
         caption: 2021.12 - 2022.05
         quote: >
           도서명: 개발자가 되기 위해 꼭 알아야 하는 IT 용어
