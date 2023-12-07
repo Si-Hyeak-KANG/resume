@@ -115,18 +115,18 @@ content:
 
           <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
 
-      - title: 채식주의자 개인 식단 맞춤 쇼핑 서비스 개발, 채식이들
-        sub_title: 코드스테이츠 교육
-        link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
-        link_text: Github
-        caption: 2022.09 - 2023.04
-        description: | # this will include new lines to allow paragraphs
-          1) 참여인원 : 7인 (BE 4인, FE 3인)
-          2) 역할 : PM 및 회원 및 상품 도메인 담당
-          3) 기여 및 성과
-            - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-            - 프로젝트 기획 및 설계 과정에 전체 기여
-            - 이슈 및 형상관리를 책임하여 팀 협업에 기여
+      # - title: 채식주의자 개인 식단 맞춤 쇼핑 서비스 개발, 채식이들
+      #   sub_title: 코드스테이츠 교육
+      #   link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
+      #   link_text: Github
+      #   caption: 2022.09 - 2023.04
+      #   description: | # this will include new lines to allow paragraphs
+      #     1) 참여인원 : 7인 (BE 4인, FE 3인)
+      #     2) 역할 : PM 및 회원 및 상품 도메인 담당
+      #     3) 기여 및 성과
+      #       - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
+      #       - 프로젝트 기획 및 설계 과정에 전체 기여
+      #       - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
 
   - title: Education # Title for the section
