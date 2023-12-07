@@ -136,7 +136,7 @@ content:
         link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
         link_text: Github
         sub_title: 코드스테이츠 교육
-        caption: 2022.09 - 2023.04
+        caption: 2022.01 - 2022.03
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 3인 (BE 1인, FE 1인, IOS 1인) <br>
           2) 역할 : 백엔드 전체 담당<br>
@@ -173,16 +173,16 @@ content:
   - title: Education & Activities
     layout: text
     content: | 
-      - <b>[교육]</b> 코드스테이츠, <small><i>백엔드 코스 39기</i></small> | 2022.04 - 2022.11
-      - <b>[대외]</b> 제주더큰내일센터, <small><i>탐나는인재 5기</i></small> | 2021.10 - 2022.11
-      - <b>[학교]</b> 제주대학교, <small><i>메카트로닉스공학과</i></small> | 2014.03 - 2021.08
-      - <b>[학교]</b> 오현고등학교 | 2011.02 - 2014.02
+      - <b>[교육] 코드스테이츠</b>, <small><i>백엔드 코스 39기</i></small> | 2022.04 - 2022.11
+      - <b>[대외] 제주더큰내일센터</b>, <small><i>탐나는인재 5기</i></small> | 2021.10 - 2022.11
+      - <b>[학교] 제주대학교</b>, <small><i>메카트로닉스공학과</i></small> | 2014.03 - 2021.08
+      - <b>[학교] 오현고등학교</b> | 2011.02 - 2014.02
 
   - title: etc.
     layout: text
     content: |
       - <b>SQLD 자격증</b>, <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
-      - <a href="https://github.com/BBack-BBoo-Team">개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
+      - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
 
 # Footer
 footer_show_references: true
