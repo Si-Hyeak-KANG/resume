@@ -64,8 +64,8 @@ content:
         quote: >
           회사 재정 악화로 인한 퇴사
         description: | # this will include new lines to allow paragraphs
-            - Struts 프레임워크, JSP 기반 모니터링 솔루션 다국어 기능 개발
-            - 통신사별 공공와이파이 데이터 연동 및 관리
+            - 자사 솔루션 국제화를 위한 다국어 변환 기능 개발 <mark>기여도 50%</mark>
+            - 통신사별 공공와이파이 데이터 연동 및 관리 <mark>기여도10%</mark>
             
       - title: 개발 도서 출판
         link: https://www.yes24.com/Product/Goods/109711067
@@ -181,6 +181,8 @@ content:
     content: |
       - <b>SQLD 자격증</b>, <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
       - <a href="https://github.com/BBack-BBoo-Team" target='_blank'>개발 스터디 팀 운영</a> | 알고리즘, CS 스터디 및 앱 개발
+      - <a href="https://youtu.be/7s14aXx1vXM?si=_EYYvE4LelHbuv3_" target='_blank'>채식 쇼핑 서비스 개발 프로젝트</a> | 협업 프로젝트 발표 영상
+      - <a href="https://youtu.be/J7RPmACsuF8?si=YF9JppqwJVbNqhDu" target='_blank'>필드와 메서드 개념 설명</a> | 발표 영상
 
 # Footer
 footer_show_references: true
