@@ -176,6 +176,11 @@ content:
       - <b>[학교] 제주대학교</b>, <small><i>메카트로닉스공학과</i></small> | 2014.03 - 2021.08
       - <b>[학교] 오현고등학교</b> | 2011.02 - 2014.02
 
+  - title: Certificates
+    layout: text
+    content: |
+      - <b>SQLD 자격증</b>, <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
+
   - title: etc.
     layout: text
     content: |
