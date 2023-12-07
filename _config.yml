@@ -100,14 +100,17 @@ content:
 
           <br>
           <mark>Java 1.4</mark>&nbsp;<mark> Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
-        
-      # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
-      #   sub_title: (주)쉐어트리츠
-      #   link: github.com/sproogen
-      #   caption: 2023.06 - 2023.07
-      #   description: | # this will include new lines to allow paragraphs
-      #   - struts 프레임워크, 자바 1.4!!!
-      #   사용기술: <mark>Java 1.4</mark> <mark> Struts Framework </mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
+          
+      - title: 개발 도서 출판
+        link: https://www.yes24.com/Product/Goods/109711067
+        link_text: 도서 바로가기
+        sub_title: 21인 공동 집필
+        caption: 2021.12 - 2022.05
+        quote: >
+          도서명: 개발자가 되기 위해 꼭 알아야 하는 IT 용어
+        description: | # this will include new lines to allow paragraphs
+            - HTTP, HASH, MVC, CDN, SPA 용어 작성
+
 
 
   - title: Education # Title for the section
