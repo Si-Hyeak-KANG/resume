@@ -142,7 +142,7 @@ content:
             - 팀 업무 효율 증가를 위해 Notion과 GitHub에 팀 페이지를 구축. 팀 협업에 기여
             - 팀원들에게 HTTP 네트워크, REST API에 대한 지식 전달
 
-          <small><mark>Java11</mark></small> </small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS Elastic Beanstalk</mark></small>
+          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS Elastic Beanstalk</mark></small>
 
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
