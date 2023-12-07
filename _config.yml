@@ -101,19 +101,26 @@ content:
           <mark>Java1.4</mark><mark>Struts Framework</mark> <mark>JSP</mark> <mark>PostgreSQL</mark> <mark>Linux</mark>
 
       - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
+        link: https://www.yes24.com/Product/Goods/109711067
+        link_text: 도서 바로가기
         sub_title: (주)쉐어트리츠
-        link: https://github.com/sharetreats-team/chatbot-treats-webhook
-        link_text: Github
-        caption: 2023.06 - 2023.07
+        caption: 2021.12 - 2022.05
         description: | # this will include new lines to allow paragraphs
-          1) 참여인원 : 4인 (BE 4인)
-          2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영
-          3) 기여 및 성과
-            - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-            - 프로젝트 기획 및 설계 과정에 전체 기여
-            - 이슈 및 형상관리를 책임하여 팀 협업에 기여
+            - HTTP, HASH, MVC, CDN, SPA 용어 작성
+      # - title: '대화형 봇'을 통한 모바일 선물하기 서비스 개발
+      #   sub_title: (주)쉐어트리츠
+      #   link: https://github.com/sharetreats-team/chatbot-treats-webhook
+      #   link_text: Github
+      #   caption: 2023.06 - 2023.07
+      #   description: | # this will include new lines to allow paragraphs
+      #     1) 참여인원 : 4인 (BE 4인)
+      #     2) 역할 : 구매 및 포인트 결제 기능 개발, Github 운영
+      #     3) 기여 및 성과
+      #       - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
+      #       - 프로젝트 기획 및 설계 과정에 전체 기여
+      #       - 이슈 및 형상관리를 책임하여 팀 협업에 기여
 
-          <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
+      #     <mark>Java11</mark> <mark>SpringBoot</mark> <mark>JPA</mark> <mark>MySQL</mark> <mark>Redis</mark> <mark>AWS</mark> <mark>Github Action</mark>
 
       # - title: 채식주의자 개인 식단 맞춤 쇼핑 서비스 개발, 채식이들
       #   sub_title: 코드스테이츠 교육
