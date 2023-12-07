@@ -30,10 +30,10 @@ instagram_username: sihyukski
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-###### additional_links:
-###### - title: itsgoingto.be
-######   icon: fas fa-globe
-######   url: https://www.itsgoingto.be
+## additional_links:
+## - title: itsgoingto.be
+##   icon: fas fa-globe
+##   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,11 +51,11 @@ about_content: | # this will include new lines to allow paragraphs
   <b><cite>"문제를 해결하는 개발자"</cite></b><br>
 
   개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
-
+  
   항상 작은 부분이라도 이점이 있다면 성능을 개선하기 위해 고민합니다.
 
   저는 높은 코드 이해력과 체계적이고, 섬세한 정리 능력을 강점으로 갖고 있습니다.
-  
+
   따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
 
   현재는 더욱 다양한 문제를 폭넓게 해결할 수 있는 개발자가 되기 위해 끊임없이 학습하고 있습니다.
@@ -110,8 +110,12 @@ content:
 
       - layout: left
         title: 챗봇 기반 선물하기 서비스
-        link: https://github.com/sharetreats-team/chatbot-treats-webhook
-        link_text: Github
+        # link: https://github.com/sharetreats-team/chatbot-treats-webhook
+        # link_text: Github
+        additional_links:
+          - title:  sharetreats
+            icon: fab fa-github
+            url: https://github.com/sharetreats-team/chatbot-treats-webhook
         sub_title: (주)쉐어트리츠
         caption: 2023.06 - 2023.07
         description: | # this will include new lines to allow paragraphs
@@ -125,8 +129,12 @@ content:
 
       - layout: left
         title: 채식주의자 식단 맞춤 쇼핑 서비스 개발
-        link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
-        link_text: Github
+        # link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
+        # link_text: Github
+        additional_links:
+          - title:  Chaesik2s_shop_project
+            icon: fab fa-github
+            url: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
         sub_title: 코드스테이츠 교육
         caption: 2022.09 - 2023.04
         description: | # this will include new lines to allow paragraphs
@@ -141,8 +149,12 @@ content:
 
       - layout: left
         title: 문화 공유 플랫폼 개발
-        link: https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project
-        link_text: Github
+        # link: https://github.com/HowWeWork/Heritage
+        # link_text: Github
+        additional_links:
+          - title:  Heritage
+            icon: fab fa-github
+            url: https://github.com/HowWeWork/Heritage
         sub_title: 코드스테이츠 교육
         caption: 2022.01 - 2022.03
         description: | # this will include new lines to allow paragraphs
