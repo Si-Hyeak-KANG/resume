@@ -180,8 +180,8 @@ content:
 
   - title: A Little More About Me
       layout: text
-      content: |
-         - 2023.10.06 | <b>SQLD 자격증</b> <small><i>한국데이터산업진흥원</i></small> 
+      content: | # this will include new lines to allow paragraphs
+         - <b>SQLD 자격증</b>, <small><i>한국데이터산업진흥원</i></small> | 2023.10.06
          - 개발 스터디 운영
 
 # Footer
