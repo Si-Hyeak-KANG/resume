@@ -45,7 +45,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   항상 작은 부분이라도 이점이 있다면 성능을 개선하기 위해 고민합니다.
 
-  저는 높은 코드 이해력과 체계적이고, 섬세한 정리 능력을 강점으로 갖고 있습니다.
+  개발은 저에게 단순 업무가 아닙니다. 
+  당장 
 
   따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
 
@@ -90,7 +91,7 @@ content:
           - Resource Bundle를 활용하여 사용자 맞춤 다국어 제공
           - 27개 카테고리 중 약 '50% 에 해당하는 영역의 UI 및 서버'에 다국어 적용
 
-          <small><mark>Java1.4</mark></small> <small><mark>Struts1 Framework</mark></small> <small><mark>JSP</mark></small> <small><mark>PostgreSQL</mark></small> <small><mark>Linux</mark></small>
+          <small><mark>Java1.4</mark></small> <small><mark>Struts1 Framework</mark></small> <small><mark>JSP</mark></small> <small><mark>PostgreSQL</mark></small> <small><mark>Linux</mark></small> <small><mark>SVN</mark></small> 
 
       - layout: left
         title: 챗봇 기반 선물하기 모바일 서비스
@@ -105,11 +106,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인) <br>
           2) 역할 : 구매 및 Point 결제 기능 개발 <br>
-            - <a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석 및 Webhook을 통해 사용자 요청에 대한 이벤트 처리
-            - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-            - 이슈 및 형상관리를 책임, 팀 협업에 기여
+            - <a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석 및 Webhook 을 통해 사용자 메시지에 대한 이벤트 처리
+            - 구매 성공 시, 선물 내역 이메일 전송 기능 개발
+            - 이슈 및 형상관리를 담당하여 운영, 팀 협업에 기여
 
-          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>Redis</mark></small> <small><mark>AWS</mark></small> <small><mark>Github Action</mark></small>
+          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>Redis</mark></small> <small><mark>AWS</mark></small> <small><mark>Github Action</mark></small> <small><mark>Git</mark></small> 
 
       - layout: left
         title: 채식주의자 식단 맞춤 쇼핑 웹 서비스
@@ -123,10 +124,11 @@ content:
         caption: 2022.09 - 2023.04
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 7인 (BE 4인, FE 3인) <br>
-          2) 역할 : PM, 회원 및 상품 도메인 구현 <br>
+          2) 역할 : PM, 회원 인증 및 상품 도메인 구현 <br>
             - ChatGPT 기반 AI 대화형 큐레이션 기능 개발 (고객 맞춤 제품 검색 소요 시간 50% 단축)
-            - 채식주의자 유형에 따라 데이터 구조를 계층으로 설계, 고객 맞춤 조회 쿼리 구현
-            - 코드 가독성과 객체 지향 5원칙에 준수하는지 고민하며, 패키지 전체 리팩토링 진행
+            - <a href="https://kang-james.tistory.com/entry/SQL-%EC%B1%84%EC%8B%9D%EC%9D%B4%EB%93%A4-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%A1%B0%ED%9A%8C-%EC%BF%BC%EB%A6%AC-%EA%B5%AC%ED%98%84" target='_blank'>채식주의자 유형 데이터 계층 설계</a>로 중폭 상품 제거 (채식유형별 상품 저장 비용 최대 88% 감소)
+            - <a href="https://acoustic-answer-f77.notion.site/v2-f0674f0af628447e9cf16f5f02d1afe4" target='_blank'>장바구니 내의 제품 주문 기능</a> 개발 (상품 구매 후, 사용자가 직접 장바구니 내역을 삭제해야하는 번거로움 해소)
+            - <a href="https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project/tree/main/server/src/main/java/com/noterror/app/infra" target='_blank'>JWT 기반 회원 인증</a> 개발
 
           <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS(EC2, S3, RDS)</mark></small> <small><mark>Jira</mark></small>
 
@@ -138,7 +140,7 @@ content:
         additional_links:
           - title:  Heritage
             icon: fab fa-github
-            url: https://github.com/HowWeWork/Heritage
+            url: https://github.com/HowWeWork/Heritage_API_Server-Springboot
         caption: 2022.01 - 2022.03
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 3인 (BE 1인, FE 1인, IOS 1인) <br>
@@ -146,7 +148,7 @@ content:
             - 무중단 배포를 위해 AWS ElasticBeanstalk 서비스 도입
             - 팀원들에게 HTTP 네트워크, REST API에 대한 지식 전달
 
-          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS Elastic Beanstalk</mark></small>
+          <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>SpringDataJPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>AWS Elastic Beanstalk</mark></small> <small><mark>ajax</mark></small> <small><mark>Swift</mark></small>
 
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
