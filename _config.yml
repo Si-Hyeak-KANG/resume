@@ -66,7 +66,7 @@ content:
           회사 재정 악화로 인한 퇴사
         description: | # this will include new lines to allow paragraphs
             - 자사 솔루션 국제화를 위한 다국어 변환 기능 개발 <small><mark>기여도 50%</mark></small>
-            - 통신사(KT,SKT,LGU,KCTV)의 공공와이파이 데이터 연동 및 운영 <small><mark>기여도10%</mark></small>
+            - 공공와이파이 데이터 연동 및 운영 <small><mark>기여도10%</mark></small>
             
       - title: 개발 도서 출판
         link: https://www.yes24.com/Product/Goods/109711067
@@ -105,9 +105,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인) <br>
           2) 역할 : 구매 및 Point 결제 기능 개발 <br>
+            - <a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석 및 Webhook을 통해 사용자 요청에 대한 이벤트 처리
             - 구매 성공 시, 선물 내역 이메일 전송 기능 구현
-            - 프로젝트 기획 및 설계 과정에 전체 기여
-            - 이슈 및 형상관리를 책임하여 팀 협업에 기여
+            - 이슈 및 형상관리를 책임, 팀 협업에 기여
 
           <small><mark>Java11</mark></small> <small><mark>SpringBoot</mark></small> <small><mark>JPA</mark></small> <small><mark>MySQL</mark></small> <small><mark>Redis</mark></small> <small><mark>AWS</mark></small> <small><mark>Github Action</mark></small>
 
