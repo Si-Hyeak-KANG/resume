@@ -39,18 +39,16 @@ instagram_username: sihyukski
 # about_title: About Me
 about_profile_image: images/profile4.jpg
 about_content: | # this will include new lines to allow paragraphs
-  <b><cite>"문제를 해결하는 개발자"</cite></b><br>
+  <b><cite>"높은 코드 이해력으로 회사에 기여하는 개발자"</cite></b><br>
+  저의 강점인 <b>높은 코드 이해력</b>을 바탕으로 회사 코드를 빠르게 습득하고, 주도적으로 업무를 수행하여 회사와 팀에 기여합니다.
 
-  개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
-  
-  항상 작은 부분이라도 이점이 있다면 성능을 개선하기 위해 고민합니다.
+  개발 협업 프로젝트와 스터디에서 매번 코드리뷰를 진행했습니다. 또한 프로젝트를 마칠 때마다 코드 전체를 리팩토링하고, 기술에 대해 성실히 블로깅하였습니다.
+  이러한 과정으로 <b>논리적인 프로그래밍 사고 역량</b>이 강화될 수 있었습니다.
 
-  개발은 저에게 단순 업무가 아닙니다. 
-  당장 
+  2023년 7월에 입사한 회사에서 Java1.4, Sturts 프레임워크 기반의 복잡한 레거시 구조에서 개발을 수행했습니다.
+  입사한지 한달만에 실무에 투입되어, 4인 협업 프로젝트에서 50% 이뤄냈습니다.
+   
 
-  따라서 새로운 업무 환경이더라도 빠르게 적응하여 성과를 냅니다.
-
-  현재는 더욱 다양한 문제를 폭넓게 해결할 수 있는 개발자가 되기 위해 끊임없이 학습하고 있습니다.
 
 content:
 
@@ -106,7 +104,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인) <br>
           2) 역할 : 구매 및 Point 결제 기능 개발 <br>
-            - <a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석 및 Webhook 을 통해 사용자 메시지에 대한 이벤트 처리
+            - Webhook을 통해 사용자 메시지에 대한 이벤트 처리 (<a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석)
             - 구매 성공 시, 선물 내역 이메일 전송 기능 개발
             - 이슈 및 형상관리를 담당하여 운영, 팀 협업에 기여
 
@@ -126,7 +124,7 @@ content:
           1) 참여인원 : 7인 (BE 4인, FE 3인) <br>
           2) 역할 : PM, 회원 인증 및 상품 도메인 구현 <br>
             - ChatGPT 기반 AI 대화형 큐레이션 기능 개발 (고객 맞춤 제품 검색 소요 시간 50% 단축)
-            - <a href="https://kang-james.tistory.com/entry/SQL-%EC%B1%84%EC%8B%9D%EC%9D%B4%EB%93%A4-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%A1%B0%ED%9A%8C-%EC%BF%BC%EB%A6%AC-%EA%B5%AC%ED%98%84" target='_blank'>채식주의자 유형 데이터 계층 설계</a>로 중폭 상품 제거 (채식유형별 상품 저장 비용 최대 88% 감소)
+            - <a href="https://kang-james.tistory.com/entry/SQL-%EC%B1%84%EC%8B%9D%EC%9D%B4%EB%93%A4-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EA%B3%84%EC%B8%B5%ED%98%95-%EC%A1%B0%ED%9A%8C-%EC%BF%BC%EB%A6%AC-%EA%B5%AC%ED%98%84" target='_blank'>채식주의자 유형 데이터 계층 설계</a>로 중복 상품 제거 (채식유형별 상품 저장 비용 최대 88% 감소)
             - <a href="https://acoustic-answer-f77.notion.site/v2-f0674f0af628447e9cf16f5f02d1afe4" target='_blank'>장바구니 내의 제품 주문 기능</a> 개발 (상품 구매 후, 사용자가 직접 장바구니 내역을 삭제해야하는 번거로움 해소)
             - <a href="https://github.com/NOT-ERROR-056/Chaesik2s_shop_Project/tree/main/server/src/main/java/com/noterror/app/infra" target='_blank'>JWT 기반 회원 인증</a> 개발
 
