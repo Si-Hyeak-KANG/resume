@@ -107,7 +107,7 @@ content:
         caption: 2023.06 - 2023.07
         description: | # this will include new lines to allow paragraphs
           1) 참여인원 : 4인 (BE 4인) <br>
-          2) 역할 : 구매 및 Point 결제 기능 개발 <br>
+          2) 역할 : <a href="https://github.com/sharetreats-team/chatbot-treats-webhook/blob/main/src/main/java/com/sharetreats/chatbot/module/service/PaymentServiceImpl.java" target='_blank'>구매 및 Point 결제 기능 개발</a>
             - Webhook을 통해 사용자 메시지에 대한 이벤트 처리 (<a href="https://developers.viber.com/docs/api/rest-bot-api/" target='_blank'>Viber(해외 대화형 앱) API 문서</a> 분석)
             - 구매 성공 시, 선물 내역 이메일 전송 기능 개발
             - 이슈 및 형상관리를 담당하여 운영, 팀 협업에 기여
