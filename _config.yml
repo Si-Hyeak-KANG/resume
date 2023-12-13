@@ -41,9 +41,9 @@ about_profile_image: images/profile4.jpg
 about_content: | # this will include new lines to allow paragraphs
   <b><cite>"높은 코드 이해력으로 회사에 기여하는 개발자"</cite></b>
 
-  저의 강점인 <b>높은 코드 이해력</b>을 바탕으로
-
-  회사 개발 환경에 빠르게 적응하고, 주도적으로 업무를 수행하여 팀에 기여합니다.
+  강점인 <b>높은 코드 이해력</b>을 바탕으로 회사 개발 환경에 빠르게 적응하고, 
+  
+  주도적으로 업무를 수행하여 팀에 기여합니다.
 
   개발 협업 프로젝트를 진행하면서 코드리뷰와 리팩토링, 기술 블로깅을 수행하였습니다.
 
