@@ -165,6 +165,7 @@ content:
           - MySQL, PostgreSQL
           - AWS EC2, RDS, S3, Elastic Cache
           - Github Action
+          - Linux
 
       - title: Fontend
         description: | # this will include new lines to allow paragraphs
