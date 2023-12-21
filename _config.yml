@@ -60,12 +60,12 @@ content:
         sub_title: Java 개발자
         caption: 2023.07 - 2023.11
         description: | # this will include new lines to allow paragraphs
-            - (23.10 - 11) 공공와이파이 데이터 연동 및 운영 <small><mark>기여도10%</mark></small>
-            - (23.08 - 10) 자사 솔루션 국제화를 위한 다국어 변환 기능 개발 <small><mark>기여도 70%</mark></small>
+            - (23.10 - 11) 공공와이파이 데이터 연동 및 운영
+            - (23.08 - 10) 자사 솔루션 국제화를 위한 다국어 변환 기능 개발
               - 27개 카테고리 중 19개(70%)에 해당하는 영역의 UI 및 서버에 기능 구현
               - 언어 가중치에 따른 Locale 설정, 사용자 맞춤 언어 변환
             
-            <small><mark>Java1.4</mark></small> <small><mark>Struts1 Framework</mark></small> <small><mark>JSP</mark></small> <small><mark>PostgreSQL</mark></small> <small><mark>Linux</mark></small> <small><mark>SVN</mark></small> 
+            - <small><mark>Java1.4</mark></small> <small><mark>Struts1 Framework</mark></small> <small><mark>JSP</mark></small> <small><mark>PostgreSQL</mark></small> <small><mark>Linux</mark></small> <small><mark>SVN</mark></small> 
             
       - title: 개발 도서 출판
         link: https://www.yes24.com/Product/Goods/109711067
